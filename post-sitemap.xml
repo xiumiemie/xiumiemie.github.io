@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://yoursite-url</loc>
+        <loc>http://yangyi.blog</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yoursite-url/2019/04/14/%E3%80%90Yang-Yi-%E5%BC%80%E7%AE%B1%E3%80%91%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%96%B9%E6%99%BA%E8%83%BD%E6%91%84%E5%83%8F%E6%9C%BA/</loc>
-        <lastmod>2019-04-14T16:04:47.264Z</lastmod>
+        <loc>http://yangyi.blog/2019/04/14/%E3%80%90Yang-Yi-%E5%BC%80%E7%AE%B1%E3%80%91%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%96%B9%E6%99%BA%E8%83%BD%E6%91%84%E5%83%8F%E6%9C%BA/</loc>
+        <lastmod>2019-04-15T16:29:58.057Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://yoursite-url/2019/04/14/hello-world/</loc>
+        <loc>http://yangyi.blog/2019/04/14/hello-world/</loc>
         <lastmod>2019-04-14T10:25:21.723Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
